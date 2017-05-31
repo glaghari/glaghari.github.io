@@ -1,5 +1,5 @@
 I'm a PhD researcher at [University of Antwerp](https://www.uantwerpen.be/en/staff/gulsher-laghari/).
-I joined [Ansymo](https://www.uantwerpen.be/en/rg/ansymo/) group at [University of Antwerp](https://www.uantwerpen.be/en/staff/gulsher-laghari/) in June 2014 to start my PhD under the supervision of [prof. dr. Serge Demeyer](http://win.ua.ac.be/~sdemey/). In my PhD, I'm working on dynamic analysis of software engineering with the perspective of fault localization.
+I joined [Ansymo](https://www.uantwerpen.be/en/rg/ansymo/) group at [University of Antwerp](https://www.uantwerpen.be/) in June 2014 to start my PhD under the supervision of [prof. dr. Serge Demeyer](http://win.ua.ac.be/~sdemey/). In my PhD, I'm working on dynamic analysis of software engineering with the perspective of fault localization.
 
 I'm also a Lecturer at [IMCS University of Sindh](http://imcs.usindh.edu.pk/gulsher-laghari/) (currently on study leave). I joined [University of Sindh](http://usindh.edu.pk) as a Research Associate at [Institute of Mathematics and Computer Science](http://imcs.usindh.edu.pk) in 2007. Later on I became Lecturer in the same institute in 2009.
 
