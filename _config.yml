@@ -24,12 +24,12 @@ highlighter: rouge
 analytics:
     provider:
     statcounter:
-        sc_project  :
-        sc_security :
-        sc_invisible: 1
+        sc_project  : 11432656
+        sc_security : '7f03cfa4'
+        sc_invisible: 0
         sc_text     : 2
     google:
-        tracking_id: ''
+        tracking_id: 'UA-105335414-1'
     getclicky:
       site_id:
     mixpanel:
