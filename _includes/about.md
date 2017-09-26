@@ -12,6 +12,8 @@ Follow me on Twitter
   data-size="large">Follow @gul_laghari
 </a>
 
+<a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/gul_laghari">Tweets by gul_laghari</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Connect on
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="gulsher-laghari-7746b615"><a class="LI-simple-link" href='https://pk.linkedin.com/in/gulsher-laghari-7746b615?trk=profile-badge'>Linkedin</a></div>

@@ -10,6 +10,4 @@ permalink: /
 
 # News
 
-<a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/gul_laghari">Tweets by gul_laghari</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 {% include news.md %}
