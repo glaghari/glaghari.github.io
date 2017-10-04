@@ -9,9 +9,9 @@ url: "http://glaghari.github.io"     # the base hostname & protocol for your sit
 #baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
-    name:
-    facebook:
-    scholar:
+    name: Gulsher Laghari
+    facebook: https://www.facebook.com/gulsher.laghari
+    scholar: https://scholar.google.be/citations?user=k7V2ZnIAAAAJ
 
 # Build settings
 markdown: kramdown

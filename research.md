@@ -1,8 +1,9 @@
 ---
-layout: page
-permalink: /publications/
-title: Publications
+layout: headerless_page
+permalink: /research/
+title: Research
 ---
+# Publications
 
 {% assign thumbnail="left" %}
 
