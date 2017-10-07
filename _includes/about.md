@@ -7,20 +7,6 @@ I'm also a Lecturer at [IMCS University of Sindh](http://imcs.usindh.edu.pk/guls
 
 I received my MPhil (2014) from [University of Sindh](http://usindh.edu.pk). I did my MPhil desertation on software architectural adaptation under the supervision of [prof. dr. Lachman Das Dhomeja](http://iict.usindh.edu.pk/iict-faculty/teachers-detail/23) and [dr. Yasir Arfat Malkani](http://usindh.edu.pk/yasir.malkani/).
 
-<div style="float: right; clear: both;">
-<div>
-Connect on Linkedin
-</div>
-<div>
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/gulsher-laghari-7746b615" data-format="inline" data-related="false"></script>
-</div>
-</div>
+<a class="twitter-timeline" data-width="300" data-height="500" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/gul_laghari">Tweets by gul_laghari</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div style="width:300px; display: block;">
-<a class="twitter-follow-button"
-  href="https://twitter.com/gul_laghari"
-  data-size="large">Follow @gul_laghari
-</a>
-<a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/gul_laghari">Tweets by gul_laghari</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="gulsher-laghari-7746b615"><a class="LI-simple-link" href='https://pk.linkedin.com/in/gulsher-laghari-7746b615?trk=profile-badge'>Gulsher Laghari</a></div>

@@ -6,6 +6,3 @@ permalink: /
 
 {% include about.md %}
 
-# News
-
-{% include news.md %}
