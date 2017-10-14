@@ -13,3 +13,10 @@
   description: "Need to email a professor? This is a well organised reasonable advice on emailing a professor and getting the desired response. This should also equally help when emailing other than professors."
   document-url: "../docs/random/just_press_send.pdf"
   date: "Oct, 2017"
+
+- link: "http://sarahnadi.org/writing-papers"
+  category: "Research"
+  tags:
+    - tag: "Writing"
+  description: "Tips on writing papers. I like this approach and its very handy."
+  date: "Oct, 2017"
