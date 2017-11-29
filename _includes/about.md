@@ -1,4 +1,4 @@
-{% include image.html url="images/photo.jpg" caption="" max_width="200px" width="130px" align="left" %}
+{% include image.html url="images/photo.jpg" caption="" max_width="200px" height="160px" width="150px" align="left" %}
 
 I'm a PhD researcher at University of Antwerp.
 I joined [Ansymo](https://www.uantwerpen.be/en/rg/ansymo/) group at [University of Antwerp](https://www.uantwerpen.be/nl/personeel/gulsher-laghari/) in June 2014 to start my PhD under the supervision of [prof. dr. Serge Demeyer](http://win.ua.ac.be/~sdemey/). In my PhD, I'm working on dynamic analysis from the perspective of software fault localization.

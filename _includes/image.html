@@ -1,6 +1,8 @@
 <div class="captioned-img align{{include.align}}">
     <a href="{{ include.url }}">
-    {% if include.width %}
+    {% if include.width and include.height %}
+    <img src="{{ include.url }}" height="{{ include.height }}" width="{{ include.width }}" style="border-radius: 70%;"/>
+    {% else if include.width %}
     <img src="{{ include.url }}" width="{{ include.width }}" style="border-radius: 70%;"/>
     {% else if include.height %}
     <img src="{{ include.url }}" height="{{ include.height }}" />
