@@ -16,6 +16,7 @@ title: Research
 # Academic Service
 
 I am happy for a little academic service, during my PhD, as an additional reviewer for [ICPC 2017](https://www.computer.org/csdl/proceedings/icpc/2017/0535/00/0535z015.pdf), [SANER 2017](https://www.computer.org/csdl/proceedings/saner/2017/5501/00/07884601.pdf), [ICPC 2016](https://www.computer.org/csdl/proceedings/icpc/2016/1428/00/07503703.pdf), [ICSME 2015](https://www.computer.org/csdl/proceedings/icsme/2015/7532/00/07332445.pdf), and [ICSE 2015](https://www.computer.org/csdl/proceedings/icse/2015/1934/01/1934z037.pdf).
+And also being part of the organization committee of [BENEVOL2017](http://ansymore.uantwerpen.be/events/BENEVOL2017) workshop. The proceedings of BENEVOL2017 [here](http://ceur-ws.org/Vol-2047/).
 
 # MPhil Thesis
 * [Policy-based Context-aware Architectural Adaptation in Pervasive Computing](../docs/MPhil_thesis.pdf).
