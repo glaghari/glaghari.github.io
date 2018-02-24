@@ -7,6 +7,12 @@ I'm also a Lecturer at [IMCS University of Sindh](http://imcs.usindh.edu.pk/guls
 
 I received my MPhil (2014) from [University of Sindh](http://usindh.edu.pk). I did my MPhil desertation on software architectural adaptation under the supervision of [prof. dr. Lachman Das Dhomeja](http://iict.usindh.edu.pk/iict-faculty/teachers-detail/23) and [dr. Yasir Arfat Malkani](http://usindh.edu.pk/yasir.malkani/).
 
-<a class="twitter-timeline" data-width="40em" data-height="60em" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/gul_laghari">Tweets by gul_laghari</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div>
+<a href="https://twitter.com/gul_laghari?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="small">Follow @gul_laghari</a>
+
+<a class="twitter-timeline" data-width="40em" data-height="60em" data-theme="light" data-link-color="#E81C4F" href="https://twitter.com/gul_laghari">Tweets by gul_laghari</a>
+</div>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [//]: # <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="gulsher-laghari-7746b615"><a class="LI-simple-link" href='https://pk.linkedin.com/in/gulsher-laghari-7746b615?trk=profile-badge'>Gulsher Laghari</a></div>
