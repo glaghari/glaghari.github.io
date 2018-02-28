@@ -64,6 +64,7 @@ li {
     > ul,
     > ol {
          margin-bottom: 0;
+         margin-top:    0;
     }
 }
 
@@ -161,6 +162,6 @@ ul.listing li.listing-item a {
     color: $url-color;
 }
 .dateadded {
-    font-size: 0.8em;
-    color: grey;
+    font-size: $small-font-size;
+    color: $text-light-color;
 }
