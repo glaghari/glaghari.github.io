@@ -1,5 +1,6 @@
 title: Gulsher Laghari
-description: My personal site
+description: Gulsher Laghari's homepage
+keywords: Gulsher Laghari, Gulsher Sindh University, Gulsher Antwerp University, University of Sindh Jamshoro, Gulsher University of Antwerp, software evolution, dynamic analysis, fault localization, spectrum based fault localization, spectrum based fault localisation, software testing
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
