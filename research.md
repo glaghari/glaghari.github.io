@@ -11,7 +11,7 @@ title: Research
 * {{pub.author}}.
 [{{pub.title}}]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}).
 *{{pub.journal}}*{% if pub.series %} ({{pub.series}}), {% endif %}{% if pub.pages %} pages {{pub.pages}}. {% endif %}{% if pub.publisher %} {{pub.publisher}}, {% endif %}{% if pub.location %} {{pub.location}}, {% endif %}{% if pub.month %} {{pub.month}} {% endif %}{% if pub.year %} {{pub.year}} {% endif %}  
-{% if pub.doi %}[![DOI](../images/doi.svg "DOI")]({{pub.doi}}) {% endif %} {% if pub.media %}{% for item in pub.media %} [![{{item.name}}](../images/{{item.name}}.svg "{{item.name | replace:'RG','ResearchGate' | replace:'PDF','Preprint' }}")]({{item.url}}) {% endfor %}{% endif %}
+{% if pub.doi %}[![DOI](../images/doi.svg "DOI")]({{pub.doi}}) {% endif %} {% if pub.media %}{% for item in pub.media %} [![{{item.name}}](../images/{{item.name | downcase }}.svg "{{item.name | replace:'RG','ResearchGate' | replace:'PDF','Preprint' }}")]({{item.url}}) {% endfor %}{% endif %}
 {% endfor %}
 
 # Academic Service
