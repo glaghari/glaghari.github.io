@@ -3,14 +3,14 @@
 I'm a PhD researcher at University of Antwerp.
 I joined [Ansymo](https://www.uantwerpen.be/en/rg/ansymo/) group at [University of Antwerp](https://www.uantwerpen.be/nl/personeel/gulsher-laghari/) in June 2014 to start my PhD under the supervision of [prof. dr. Serge Demeyer](http://win.ua.ac.be/~sdemey/). In my PhD, I'm working on dynamic analysis from the perspective of software fault localization.
 
-I'm also a Lecturer at [IMCS University of Sindh](http://imcs.usindh.edu.pk/gulsher-laghari/) (currently on study leave). I joined [University of Sindh](http://usindh.edu.pk) as a Research Associate at [Institute of Mathematics and Computer Science](http://imcs.usindh.edu.pk) in 2007. Later on, I became Lecturer in the same institute in 2009.
+I'm also a Lecturer at [University of Sindh](http://usindh.edu.pk) (currently on study leave). I joined University of Sindh as a Research Associate at [Institute of Mathematics and Computer Science](http://imcs.usindh.edu.pk/gulsher-laghari/) in 2007. Later on, I became Lecturer in the same institute in 2009.
 
-I received my MPhil (2014) from [University of Sindh](http://usindh.edu.pk). I did my MPhil desertation on software architectural adaptation under the supervision of [prof. dr. Lachman Das Dhomeja](http://iict.usindh.edu.pk/iict-faculty/teachers-detail/23) and [dr. Yasir Arfat Malkani](http://usindh.edu.pk/yasir.malkani/).
+I received my MPhil (2014) from University of Sindh. I did my MPhil dissertation on software architectural adaptation under the supervision of [prof. dr. Lachman Das Dhomeja](http://iict.usindh.edu.pk/iict-faculty/teachers-detail/23) and [dr. Yasir Arfat Malkani](http://usindh.edu.pk/yasir.malkani/).
 
 <div>
 <a href="https://twitter.com/gul_laghari?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="small">Follow @gul_laghari</a>
 
-<a class="twitter-timeline" data-width="40em" data-height="60em" data-theme="light" data-link-color="#E81C4F" href="https://twitter.com/gul_laghari">Tweets by gul_laghari</a>
+<a class="twitter-timeline" data-width="40em" data-height="60em" data-theme="light" data-link-color="$url-color" href="https://twitter.com/gul_laghari">Tweets by gul_laghari</a>
 </div>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -13,7 +13,7 @@
   media:
     - name: "RG"
       url:  "https://www.researchgate.net/publication/322600536"
-    - name: "Preprint PDF"
+    - name: "PDF"
       url:  "../docs/SAC_SVT2018_paper.pdf"
 
 
@@ -33,7 +33,7 @@
   media:
     - name: "RG"
       url:  "https://www.researchgate.net/publication/316089867"
-    - name: "Preprint PDF"
+    - name: "PDF"
       url:  "../docs/MSR17_preprint.pdf"
     - name: "Slides"
       url:  "../docs/MSR17_slides.pdf"
@@ -70,7 +70,7 @@
   media:
     - name: "RG"
       url:  "https://www.researchgate.net/publication/306394778"
-    - name: "Preprint PDF"
+    - name: "PDF"
       url:  "../docs/ASE16_preprint.pdf"
     - name: "Slides"
       url:  "../docs/ASE16_slides.pdf"
@@ -107,7 +107,7 @@
   media:
     - name: "RG"
       url:  "https://www.researchgate.net/publication/299870523"
-    - name: "Preprint PDF"
+    - name: "PDF"
       url:  "../docs/IWPSE15_preprint.pdf"
     - name: "Slides"
       url:  "../docs/IWPSE15_slides.pdf"

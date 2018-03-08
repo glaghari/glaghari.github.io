@@ -12,7 +12,7 @@
 {% for category in site.data.links_categories %}
  {{ "# " | append: category.category | markdownify }}
  {% for tag in category.tags %}
-   <h3><a name="{{ tag.tag }}"> {{ tag.tag }} </a></h3>
+   <h2 id="{{ tag.tag }}"> {{ tag.tag }} </h2>
    {% for link in site.data.links %}
    {% assign category_match = false %}
    {% assign tag_match = false %}
@@ -25,9 +25,9 @@
    {% endif %}
    {% endfor %}
    {% if category_match and tag_match %}
-   *  {{link.description}} [[Link]]({{link.link}})
-     {% if link.document-url %}[[PDF]({{link.document-url}})]{% endif %}
-     {% if link.date %} <p class="dateadded"> --- added on [{{link.date}}] </p> {% endif %}
+   *  {{link.description}} [![Link](../images/link.svg "Link to resource")]({{link.link}})
+     {% if link.document-url %}[![PDF](../images/pdf.svg)]({{link.document-url}}){% endif %}
+     {% if link.date %} <p class="dateadded"> &mdash; added on [{{link.date}}] </p> {% endif %}
    {% endif %}
    {% endfor %}
  {% endfor %}

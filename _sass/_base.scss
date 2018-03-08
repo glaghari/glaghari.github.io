@@ -79,7 +79,7 @@ a {
     text-decoration: none;
     &:hover {
         color: $url-hover-color;
-        text-decoration: none;
+        text-decoration: underline;
     }
 }
 
