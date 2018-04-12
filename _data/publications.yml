@@ -32,6 +32,8 @@
       url:  "https://www.researchgate.net/publication/322600536"
     - name: "PDF"
       url:  "../docs/SAC_SVT2018_paper.pdf"
+    - name: "Slides"
+      url:  "../docs/SAC_SVT2018_paper_slides.pdf"
 
 - author:   "Gerardo Orellana, Gulsher Laghari, Alessandro Murgia, and Serge Demeyer"
   title:    "On the Differences between Unit and Integration Testing in the TravisTorrent Dataset"
