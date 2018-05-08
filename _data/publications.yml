@@ -14,6 +14,8 @@
       url:  "https://www.researchgate.net/publication/323696718"
     - name: "PDF"
       url:  "../docs/ICSE2018posterabstract.pdf"
+    - name: "Slides"
+      url:  "../docs/ICSE2018_Poster.pdf"
 
 - author:   "Gulsher Laghari and Serge Demeyer"
   title:    "On the Use of Sequence Mining within Spectrum Based Fault Localisation"
