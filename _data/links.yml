@@ -1,3 +1,9 @@
+- category: "Research"
+  tags:
+    - tag: "Inspiration"
+  description: "I attended [ICSE 2018 conference](https://www.icse2018.org) in Gothenburg, Sweden, I liked some of the keynotes. The [inspirational talk](https://youtu.be/U5jLjcxnwfU) from Andreas Zeller who won the ACM outstanding research award, Andy Ko's [talk on the ideas](https://youtu.be/lx7g-T10WxQ), and also Andy's [joint keynote](https://www.youtube.com/watch?v=Oh5NuyTMB4A) (pre-recorded) on the intersection of [MSR 2018](https://2018.msrconf.org/home) and [ICPC 2018](https://conf.researchr.org/home/icpc-2018)."
+  date: "May, 2018"
+
 - link: "http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf"
   category: "Research"
   tags:

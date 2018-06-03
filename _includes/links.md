@@ -25,7 +25,8 @@
    {% endif %}
    {% endfor %}
    {% if category_match and tag_match %}
-   *  {{link.description}} [![Link](../images/link.svg "Link to resource")]({{link.link}})
+   *  {{link.description}}
+     {% if link.link %}[![Link](../images/link.svg "Link to resource")]({{link.link}}){% endif %}
      {% if link.document-url %}[![PDF](../images/pdf.svg)]({{link.document-url}}){% endif %}
      {% if link.date %} <p class="dateadded"> &mdash; added on [{{link.date}}] </p> {% endif %}
    {% endif %}
