@@ -6,19 +6,19 @@ permalink: /contact/
 
 <div stylesheet="float:left">
 <img src="../images/email.svg" width="20px" />
-gulsher.laghari(at)uantwerpen.be
+gulsher.laghari(at)usindh.edu.pk
 <div/>
 
 <div stylesheet="float:left">
 <img src="../images/phone.svg" width="20px" />
-+3232653893 
++92229213177
 <div/>
 
 <div stylesheet="float:left">
 <img src="../images/location.svg" width="20px" />
-Campus Middelheim,
-Middelheimlaan 1 - 
-M.G.305 
-2020 Antwerpen 
-België
+Room No.22,
+Institute of Mathematics and Computer Science,
+Allama I.I Kazi Campus,
+University of Sindh, Jamshoro
+Pakistan
 <div/>
