@@ -1,6 +1,7 @@
-- category: "Research"
+- category: 'Research'
   tags:
-    - tag: "Reading"
-    - tag: "Emailing"
-    - tag: "Writing"
-    - tag: "Inspiration"
+      - tag: 'Reading'
+      - tag: 'Emailing'
+      - tag: 'Writing'
+      - tag: 'Inspiration'
+      - tag: 'PhD'
