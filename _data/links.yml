@@ -1,5 +1,11 @@
 - category: 'Research'
   tags:
+      - tag: 'PhD'
+  description: 'A concise illustrated guide on [_what a PhD is_](http://matt.might.net/articles/phd-school-in-pictures/).'
+  date: 'Apr, 2021'
+
+- category: 'Research'
+  tags:
       - tag: 'Inspiration'
   description: "I attended [ICSE 2018 conference](https://www.icse2018.org) in Gothenburg, Sweden, I liked some of the keynotes. The [inspirational talk](https://youtu.be/U5jLjcxnwfU) from Andreas Zeller who won the ACM outstanding research award, Amy Ko's [talk on the ideas](https://youtu.be/lx7g-T10WxQ), and also Amy's [joint keynote](https://www.youtube.com/watch?v=Oh5NuyTMB4A) (pre-recorded) on the intersection of [MSR 2018](https://2018.msrconf.org/home) and [ICPC 2018](https://conf.researchr.org/home/icpc-2018)."
   date: 'May, 2018'
