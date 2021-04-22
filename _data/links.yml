@@ -1,7 +1,8 @@
-- category: 'Research'
+- link: 'http://matt.might.net/articles/phd-school-in-pictures/'
+  category: 'Research'
   tags:
       - tag: 'PhD'
-  description: 'A concise illustrated guide on [_what a PhD is_](http://matt.might.net/articles/phd-school-in-pictures/).'
+  description: 'A concise illustrated guide on _what a PhD is_'
   date: 'Apr, 2021'
 
 - category: 'Research'
