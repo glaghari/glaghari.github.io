@@ -1,35 +1,35 @@
-- link: 'http://matt.might.net/articles/phd-school-in-pictures/'
-  category: 'Research'
+- category: "Research"
   tags:
-      - tag: 'PhD'
-  description: 'A concise illustrated guide on _what a PhD is_'
-  date: 'Apr, 2021'
-
-- category: 'Research'
-  tags:
-      - tag: 'Inspiration'
+    - tag: "Inspiration"
   description: "I attended [ICSE 2018 conference](https://www.icse2018.org) in Gothenburg, Sweden, I liked some of the keynotes. The [inspirational talk](https://youtu.be/U5jLjcxnwfU) from Andreas Zeller who won the ACM outstanding research award, Amy Ko's [talk on the ideas](https://youtu.be/lx7g-T10WxQ), and also Amy's [joint keynote](https://www.youtube.com/watch?v=Oh5NuyTMB4A) (pre-recorded) on the intersection of [MSR 2018](https://2018.msrconf.org/home) and [ICPC 2018](https://conf.researchr.org/home/icpc-2018)."
-  date: 'May, 2018'
+  date: "May, 2018"
 
-- link: 'http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf'
-  category: 'Research'
+- link: "http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf"
+  category: "Research"
   tags:
-      - tag: 'Reading'
-  description: 'How to read a paper? I find this paper reading strategy really interesting, especially for beginners. I also keep the copy for ready reference, in case the link breaks in future.'
-  document-url: '../docs/random/paper-reading.pdf'
-  date: 'Jul, 2017'
+    - tag: "Reading"
+  description: "How to read a paper? I find this paper reading strategy really interesting, especially for beginners. I also keep the copy for ready reference, in case the link breaks in future."
+  document-url: "../docs/random/paper-reading.pdf"
+  date: "Jul, 2017"
 
-- link: 'https://adasteam.files.wordpress.com/2017/10/just_press_send.pdf'
-  category: 'Research'
+- link: "https://adasteam.files.wordpress.com/2017/10/just_press_send.pdf"
+  category: "Research"
   tags:
-      - tag: 'Emailing'
-  description: 'Need to email a professor? This is a well organised reasonable advice on emailing a professor and getting the desired response. This should also equally help when emailing other than professors.'
-  document-url: '../docs/random/just_press_send.pdf'
-  date: 'Oct, 2017'
+    - tag: "Emailing"
+  description: "Need to email a professor? This is a well organised reasonable advice on emailing a professor and getting the desired response. This should also equally help when emailing other than professors."
+  document-url: "../docs/random/just_press_send.pdf"
+  date: "Oct, 2017"
 
-- link: 'http://sarahnadi.org/writing-papers'
-  category: 'Research'
+- link: "http://sarahnadi.org/writing-papers"
+  category: "Research"
   tags:
-      - tag: 'Writing'
-  description: 'Tips on writing papers. I like this approach and its very handy.'
-  date: 'Oct, 2017'
+    - tag: "Writing"
+  description: "Tips on writing papers. I like this approach and its very handy."
+  date: "Oct, 2017"
+
+- link: "http://matt.might.net/articles/phd-school-in-pictures/"
+  category: "Research"
+  tags:
+    - tag: "PhD"
+  description: "A concise illustrated guide on _what a PhD is_"
+  date: "Apr, 2021"

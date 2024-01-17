@@ -1,6 +1,6 @@
 {% include image.html url="images/photo.jpg" caption="" max_width="200px" height="160px" width="150px" align="left" %}
 
-I am Assistant Professor at [University of Sindh](http://usindh.edu.pk). I joined University of Sindh as a Research Associate at [Institute of Mathematics and Computer Science](http://imcs.usindh.edu.pk/gulsher-laghari/) in 2007.
+I am Associate Professor at [University of Sindh](http://usindh.edu.pk). I joined University of Sindh as a Research Associate at [Institute of Mathematics and Computer Science](http://imcs.usindh.edu.pk/gulsher-laghari/) in 2007.
 
 I got PhD in 2018 from University of Antwerp.
 I joined [Ansymo](https://www.uantwerpen.be/en/rg/ansymo/) group at [University of Antwerp](https://www.uantwerpen.be/nl/personeel/gulsher-laghari/) in June 2014 to start my PhD under the supervision of [prof. dr. Serge Demeyer](http://win.ua.ac.be/~sdemey/). In my PhD, I have worked on software fault localization.
